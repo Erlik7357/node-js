@@ -1,0 +1,1 @@
+{\n  "name": "node-js-ml-project",\n  "version": "1.0.0",\n  "description": "A Node.js project for Machine Learning with CSV handling and Python bridge.",\n  "dependencies": {\n    "csv-parser": "^3.0.0",\n    "python-shell": "^3.0.0"\n  },\n  "scripts": {\n    "start": "node index.js"\n  }\n}
